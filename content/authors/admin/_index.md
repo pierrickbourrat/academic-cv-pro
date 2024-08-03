@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Pierrick Bourrât
+title: Pierrick Bourrat
 
 # Full name (for SEO)
 first_name: Pierrick
