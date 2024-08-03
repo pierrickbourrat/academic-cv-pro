@@ -10,9 +10,11 @@ last_name: Bourrat
 # status:
 #  icon: ☕️
 
-
 # Is this the primary user of the site?
 superuser: true
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 
 # Role/position/tagline
 role: Senior Lecturer & DECRA Fellow
@@ -35,7 +37,6 @@ interests:
 
 # Education to show in About widget
 education:
-  courses:
     - area: PhD in Philosophy
       institution: The University of Sydney
       date_start: 2011-03-01
@@ -58,6 +59,7 @@ education:
 profiles:
   - icon: at-symbol
     url: 'mailto:p.bourrat@gmail.com'
+    label: E-mail Me
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=OdPTjCsAAAAJ&hl=en
   - icon: academicons/philpapers
